@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "nisho san thanks very much 2020_8_14",
+"productVersion": "0.1",
+"dataUrl": "nysyo_san_thanks.data.unityweb",
+"wasmCodeUrl": "nysyo_san_thanks.wasm.code.unityweb",
+"wasmFrameworkUrl": "nysyo_san_thanks.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
